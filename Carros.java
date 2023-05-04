@@ -9,5 +9,5 @@ package Primeiro_trab_prog;
  * @author Laura Coelho
  */
 public class Carros {
-    
+    private String nome;
 }
