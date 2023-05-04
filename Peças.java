@@ -11,5 +11,6 @@ package Primeiro_trab_prog;
 public class Peças {
 
     private String nome;
+    private double valor;
     
 }
